@@ -20,3 +20,6 @@ Decays at around the midpoint of the block.
 
 ### e) 1000 GeV
 Mostly Bremsstrahlung but also passes through lead quickly and barely interacts.
+
+## b)
+4.77 Mev cm^2 / g
